@@ -1,0 +1,62 @@
+{
+  "registry": [
+    {
+      "id": "7",
+      "region": "north"
+    },
+    {
+      "id": "07",
+      "region": "south"
+    }
+  ],
+  "routes": {
+    "A": {
+      "s": [
+        "7",
+        "07"
+      ]
+    },
+    "B": {
+      "s": [
+        "7",
+        "07"
+      ]
+    }
+  },
+  "batches": [
+    {
+      "id": "A",
+      "rows": [
+        {
+          "rid": "01",
+          "token": "7",
+          "shard": "s",
+          "rev": 1,
+          "deleted": false,
+          "amount": 10
+        },
+        {
+          "rid": "02",
+          "token": "7",
+          "shard": "s",
+          "rev": 1,
+          "deleted": false,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "rows": [
+        {
+          "rid": "01",
+          "token": "7",
+          "shard": "s",
+          "rev": 2,
+          "deleted": true,
+          "amount": 0
+        }
+      ]
+    }
+  ]
+}

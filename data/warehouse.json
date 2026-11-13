@@ -1,0 +1,36 @@
+{
+  "ledger": [
+    {
+      "id": "314",
+      "rev": 13,
+      "deleted": false,
+      "amount": -200
+    },
+    {
+      "id": "51",
+      "rev": 5,
+      "deleted": false,
+      "amount": 0
+    },
+    {
+      "id": "82",
+      "rev": 10,
+      "deleted": false,
+      "amount": -50
+    }
+  ],
+  "totals": {
+    "coast": {
+      "amount": 0,
+      "count": 0
+    },
+    "north": {
+      "amount": -250,
+      "count": 3
+    },
+    "south": {
+      "amount": 0,
+      "count": 0
+    }
+  }
+}

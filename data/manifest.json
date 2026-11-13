@@ -1,0 +1,34 @@
+{
+  "batches": [
+    {
+      "id": "A",
+      "file": "A.csv",
+      "rows": 10
+    },
+    {
+      "id": "B",
+      "file": "B.csv",
+      "rows": 7
+    },
+    {
+      "id": "C",
+      "file": "C.csv",
+      "rows": 6
+    },
+    {
+      "id": "D",
+      "file": "D.csv",
+      "rows": 7
+    }
+  ],
+  "sha256": {
+    "registry.csv": "e233cbab6b7cf91dda7a56122dc3a506b72bb25b534a93a9d13ff113d2f2edca",
+    "routes.json": "3091f4178af5b365414fc82210f46b0c4d93d84bddc6dbb257b9eb237409331a",
+    "A.csv": "a55b69ae4679890edc2132cba4926f7f2c6914b66850dabe26c95d4c99f0c724",
+    "B.csv": "ba2798b22f0f19a13ec1e893f13861e7ccf6fae37371e0ea9e6728174ed05f74",
+    "C.csv": "b1ffa30cb738af416aff4329cb647528cc950c96f15bb0665abcd09b7b732291",
+    "D.csv": "1e8b20e72891df43b9dd68645b644c02e90e3c8cc2d53fb10529d3034c1247e7",
+    "import.log": "b0226ec7802fbc77b1af979e59a7937ba04cc0c0d3e95b317eb2a6cad29af7f7",
+    "warehouse.json": "2839c16e1ecf16c1fe09b16c9cdb1f10a9f9cca97b990149d63965bd2ba54eaf"
+  }
+}

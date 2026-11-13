@@ -1,0 +1,4 @@
+A: rows=10 accepted=3 ignored=7
+B: rows=7 accepted=4 ignored=3
+C: rows=6 accepted=3 ignored=3
+D: rows=7 accepted=3 ignored=4

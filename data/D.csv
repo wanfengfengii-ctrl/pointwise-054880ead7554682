@@ -1,0 +1,8 @@
+rid,token,shard,rev,deleted,amount
+01,314,wide,13,0,-200
+02,314,wide,12,1,0
+03,314,wide,1,0,1000
+04,314,tail,11,0,450
+05,82,small,6,0,80
+06,82,small,10,0,-50
+07,51,single,5,0,0
